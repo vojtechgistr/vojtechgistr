@@ -1,4 +1,4 @@
-### Hey, I'm Vojta 👋
+### Hey, my name is Vojta 👋
 
 ## I am a developer, musician and artist!
 
@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-vojtag.vercel.app/api/spotify-playing" alt="VojtaG Spotify Playing" width="350" />](https://open.spotify.com/user/scc8q6y2nwu83a9sxsf1sf2p1)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scc8q6y2nwu83a9sxsf1sf2p1&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
