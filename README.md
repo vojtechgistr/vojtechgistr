@@ -49,7 +49,7 @@
 
 ---
 
-### My favourite on spotify 🎧
+### Me on Spotify 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scc8q6y2nwu83a9sxsf1sf2p1&cover_image=true)](https://open.spotify.com/user/scc8q6y2nwu83a9sxsf1sf2p1)
 
