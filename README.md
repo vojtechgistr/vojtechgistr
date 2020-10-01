@@ -13,8 +13,6 @@
 - [ViceVerse](https://github.com/ViceVerse-Group)
 - [LuckyTeam Website](https://luckyteameu.gq/)
 
----
-
 <br />
 
 ### Languages and Tools:
@@ -33,7 +31,6 @@
 <br />
 <br />
 
----
 
 ### Connect with me:
 
