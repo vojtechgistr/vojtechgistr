@@ -32,6 +32,10 @@
 <br />
 
 
+  ![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=VojtaG&show_icons=true&theme=radical)
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="vojtechgistr.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -42,14 +46,11 @@
 
 <br />
 
+---
+
 ### My favourite on spotify 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scc8q6y2nwu83a9sxsf1sf2p1&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
-
----
-
-  ![VojtaG's github stats](https://github-readme-stats.vercel.app/api?username=VojtaG&show_icons=true&theme=radical)
 
 
 [website]: https://vojtechgistr.codes
