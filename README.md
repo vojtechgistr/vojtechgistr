@@ -31,10 +31,11 @@
 <br />
 <br />
 
+<br><br>
 
   ![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=VojtaG&show_icons=true&theme=radical)
 
-
+<br>
 
 ### Connect with me:
 
