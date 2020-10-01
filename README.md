@@ -6,15 +6,14 @@
 - ⚡ My hobbies: I love to draw, play musical instruments, play sports and program
 - 🥅 2020 Goals: I wanna learn something about application development and make some websites for people
 
-### Spotify Playing 🎧
+---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scc8q6y2nwu83a9sxsf1sf2p1&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+### 👀 My Projects
 
-### Connect with me:
+- [ViceVerse](https://github.com/ViceVerse-Group)
+- [LuckyTeam Website](https://luckyteameu.gq/)
 
-[<img align="left" alt="vojtechgistr.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
 <br />
 
@@ -36,10 +35,17 @@
 
 ---
 
-### 👀 My Projects
+### Connect with me:
 
-- [ViceVerse](https://github.com/ViceVerse-Group)
-- [LuckyTeam Website](https://luckyteameu.gq/)
+[<img align="left" alt="vojtechgistr.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+### My favourite on spotify 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scc8q6y2nwu83a9sxsf1sf2p1&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 ---
 
