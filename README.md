@@ -1,6 +1,6 @@
 ### Hey, I'm Vojta 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I am a developer, musician and artist!
 
 - 🔎 I’m currently learning c# applications, HTML website design and 2D digital art
 - ⚡ My hobbies: I love to draw, play musical instruments, play sports and program
