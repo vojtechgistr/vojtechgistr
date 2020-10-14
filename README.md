@@ -1,4 +1,4 @@
-### Hey, my name is Vojta 👋
+### Hey, my name is [Vojta](https://vojtechgistr.eu/) 👋
 
 ## I am a developer, musician and artist!
 
@@ -10,6 +10,7 @@
 
 ### 👀 My Projects
 
+- [My Portfolio](https://vojtechgistr.eu/)
 - [ViceVerse](https://github.com/ViceVerse-Group)
 - [LuckyTeam Website](https://luckyteameu.gq/)
 
