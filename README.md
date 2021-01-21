@@ -11,7 +11,7 @@
 ### 👀 My Projects
 
 - [My Portfolio](https://vojtechgistr.eu/)
-- [ViceVerse](https://github.com/ViceVerse-Group)
+- [ToBots Website](https://tobot.fun/)
 - [LuckyTeam Website](https://luckyteameu.gq/)
 
 <br />
