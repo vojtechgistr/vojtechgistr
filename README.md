@@ -4,7 +4,7 @@
 
 - 🔎 I’m currently learning c# applications, HTML website design and 2D digital art
 - ⚡ My hobbies: I love to draw, play musical instruments, play sports and program
-- 🥅 2020 Goals: I wanna learn something about application development and make some websites for people
+- 🥅 2021 Goals: Start selling web designs and things like that
 
 ---
 
