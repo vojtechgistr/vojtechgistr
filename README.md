@@ -10,8 +10,8 @@
 
 ### 👀 My Projects
 
-- [My Portfolio](https://vojtechgistr.eu/)
-- [ToBots Website](https://tobot.fun/)
+- [My Portfolio - not active](https://vojtechgistr.eu/)
+- [ToBots Website - not active](https://tobot.fun/)
 - [LuckyTeam Website](https://luckyteameu.gq/)
 
 <br />
@@ -55,6 +55,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scc8q6y2nwu83a9sxsf1sf2p1&cover_image=true)](https://open.spotify.com/user/scc8q6y2nwu83a9sxsf1sf2p1)
 
 
-[website]: https://vojtechgistr.eu/
 [instagram]: https://www.instagram.com/vojtech.gistr/
-[discord]: https://discord.com/invite/uNruWEp
+[discord]: https://discord.gg/CrFCwjjdrm
