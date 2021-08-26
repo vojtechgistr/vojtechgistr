@@ -43,14 +43,12 @@
 [<img align="left" alt="Discord" width="64px" src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" />][discord]
 [<img align="left" alt="Instagram" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
+
 <br />
 <br />
 <br />
 
 ---
-<br />
-<br />
-<br />
 
 ### Me on Spotify 🎧
 
