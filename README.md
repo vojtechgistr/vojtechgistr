@@ -2,17 +2,15 @@
 
 ## I am a developer, musician and artist!
 
-- 🔎 I’m currently learning c# applications, HTML website design and 2D digital art
+- 🔎 I’m currently learning c++ and Artificial Intelligence
 - ⚡ My hobbies: I love to draw, play musical instruments, play sports and program
-- 🥅 2021 Goals: Start selling web designs and things like that
+- 🥅 2021 Goals: Start selling web designs and things like that (🟢), Create a first AI application (🟠)
 
 ---
 
-### 👀 My Projects
+### 👀 My Projects (I'm currently working on)
 
-- [My Portfolio - not active](https://vojtechgistr.eu/)
-- [ToBots Website - not active](https://tobot.fun/)
-- [LuckyTeam Website](https://luckyteameu.gq/)
+- [Tech Hub](https://discord.gg/G9gUc8GZD9)
 
 <br />
 
@@ -28,6 +26,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
 <br />
 <br />
@@ -54,4 +53,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scc8q6y2nwu83a9sxsf1sf2p1&cover_image=true)](https://open.spotify.com/user/scc8q6y2nwu83a9sxsf1sf2p1)
 
 [instagram]: https://www.instagram.com/vojtech.gistr/
-[discord]: https://discord.gg/CrFCwjjdrm
+[discord]: https://discord.gg/G9gUc8GZD9
