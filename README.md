@@ -10,7 +10,7 @@
 
 ### 👀 My Projects (I'm currently working on)
 
-- [Tech Hub](https://discord.gg/G9gUc8GZD9)
+- [Tech Hub](https://discord.gg/9cg7sq6aR8)
 
 <br />
 
