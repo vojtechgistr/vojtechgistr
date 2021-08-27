@@ -10,7 +10,7 @@
 
 ### 👀 My Projects (I'm currently working on)
 
-- [Artificial Void](https://artificialvoid.com)
+- [Artificial Void](https://discord.artificialvoid.com)
 
 <br />
 
