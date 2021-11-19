@@ -4,7 +4,7 @@
 
 - 🔎 I’m currently learning Applications
 - ⚡ My hobbies: I love to draw, play musical instruments, play sports and program
-- 🥅 2021 Goals: Start selling web designs and things like that (🟢), Start Creating AI applications for people (🟠)
+- 🥅 2021 Goals: Start selling Websites (🟢)
 
 ---
 
