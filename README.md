@@ -1,8 +1,8 @@
-### Hey, my name is [Vojta](https://vojtechgistr.eu/) 👋
+### Hey, my name is [Vojta](https://vojtechgistr.com/) 👋
 
 ## I am a developer, musician and artist!
 
-- 🔎 I’m currently learning C++ and Artificial Intelligence
+- 🔎 I’m currently learning Applications
 - ⚡ My hobbies: I love to draw, play musical instruments, play sports and program
 - 🥅 2021 Goals: Start selling web designs and things like that (🟢), Start Creating AI applications for people (🟠)
 
