@@ -11,6 +11,7 @@
 ### 👀 My Projects (I'm currently working on)
 
 - [Artificial Void (Website)](https://artificialvoid.com) - [Discord Link](https://artificialvoid.com/discord)
+- Let's Study [PRIVATE]
 
 <br />
 
