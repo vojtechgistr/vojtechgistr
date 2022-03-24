@@ -16,7 +16,7 @@ I'm not working on any bigger projects at the moment.
 
 ### Languages and Tools:
 
-<code><img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="PHP" width="48px" src="./assets/php.png" />
 <img align="left" alt="CSS3" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C++" width="48px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
