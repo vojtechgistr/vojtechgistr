@@ -16,7 +16,7 @@
 
 <br>
 
-<p opacity=0.5>I'm not working on any bigger projects at the moment tho.<p>
+<p color="#000">I'm not working on any bigger projects at the moment tho.<p>
 
 ---
 
