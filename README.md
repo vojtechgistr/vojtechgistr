@@ -38,11 +38,11 @@ I'm not working on any bigger projects at the moment.
 
 <br /><br /><br />
 
+<img align="left" alt="Linux" width="48px" src="./assets/linux.png" />
+<img align="left" alt="Windows" width="48px" src="./assets/windows.png" />
 <img align="left" alt="Photoshop" width="48px" src="./assets/photoshop.png" />
 <img align="left" alt="Cakewalk" width="48px" src="./assets/cakewalk.png" />
 <img align="left" alt="DaVinci Resolve" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
-<img align="left" alt="Linux" width="48px" src="./assets/linux.png" />
-<img align="left" alt="Windows" width="48px" src="./assets/windows.png" />
 
 <br /><br />
 <br /><br />
