@@ -24,6 +24,9 @@ I'm not working on any bigger projects at the moment.
 <img align="left" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="48px" src="./assets/sql.png" />
+
+<br />
+
 <img align="left" alt="MySQL" width="48px" src="./assets/mysql.png" />
 <img align="left" alt="MongoDB" width="48px" src="./assets/mongodb.png" />
 <img align="left" alt="Git" width="48px" src="./assets/git.png" />
