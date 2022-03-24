@@ -10,7 +10,11 @@
 
 ### 👀 My Projects (I'm currently working on)
 
-I'm not working on any bigger projects at the moment.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vojtag&repo=battleship-minigame)](https://github.com/VojtaG/BattleShip-minigame)
+
+<br><br>
+
+I'm not working on any bigger projects at the moment tho.
 
 ---
 
