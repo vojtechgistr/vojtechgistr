@@ -1,17 +1,16 @@
 ### Hey, my name is Adalbert 👋
 
-## I am a developer, musician and artist!
+## and I'm a developer & musician!
 
-- 🔎 I’m currently learning Applications
-- ⚡ My hobbies: I love to draw, play musical instruments, play sports and program
-- 🥅 2021 Goals: Start selling Websites (🟢)
+- 🔎 I’m currently learning C++
+- ⚡ My hobbies: I like drawing, playing musical instruments, playing sports and programming
+- 🥅 2022 Goals: That's a good question.. (🟠)
 
 ---
 
 ### 👀 My Projects (I'm currently working on)
 
-- [Artificial Void (Website)](https://artificialvoid.com) - [Discord Link](https://discord.com/invite/NuENnszsPn)
-- Let's Study [PRIVATE]
+I'm not working on any bigger projects at the moment.
 
 <br />
 
