@@ -50,7 +50,9 @@ I'm not working on any bigger projects at the moment.
 
 <br />
 
-  ![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=VojtaG&show_icons=true&theme=radical)
+![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=VojtaG&show_icons=true&theme=radical)
+  
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vojtag&layout=compact)](https://github.com/VojtaG)
 
 
 <br />
