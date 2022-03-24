@@ -44,6 +44,8 @@ I'm not working on any bigger projects at the moment.
 <img align="left" alt="Cakewalk" width="48px" src="./assets/cakewalk.png" />
 <img align="left" alt="DaVinci Resolve" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
 
+<br /><br /><br />
+
 ---
 
   ![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=VojtaG&show_icons=true&theme=radical)
