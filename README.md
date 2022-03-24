@@ -1,6 +1,6 @@
-### Hey, my name is Adalbert 👋
+## Hey, my name is Adalbert 👋
 
-## and I'm a developer & musician!
+### and I'm a developer & musician!
 
 - 🔎 I’m currently learning C++
 - ⚡ My hobbies: I like drawing, playing musical instruments, playing sports and programming
