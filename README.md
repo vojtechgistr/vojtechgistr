@@ -16,7 +16,7 @@
 
 <br>
 
-<p color="#000">I'm not working on any bigger projects at the moment tho.<p>
+I'm not working on any bigger projects at the moment tho.
 
 ---
 
