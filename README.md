@@ -8,7 +8,7 @@
 
 ---
 
-### 👀 My Projects (I'm currently working on)
+### 👀 MY PROJECTS (WHICH I'M CURRENTLY WORKING ON)
 
 <br>
 
