@@ -10,7 +10,7 @@
 
 ### 👀 My Projects (I'm currently working on)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vojtag&theme=radical&repo=battleship-minigame)](https://github.com/VojtaG/BattleShip-minigame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vojtag&theme=github_dark&repo=battleship-minigame)](https://github.com/VojtaG/BattleShip-minigame)
 
 <br><br>
 
