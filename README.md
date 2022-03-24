@@ -25,7 +25,7 @@ I'm not working on any bigger projects at the moment.
 <img align="left" alt="Node.js" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="48px" src="./assets/sql.png" />
 
-<br />
+<br /><br />
 
 <img align="left" alt="MySQL" width="48px" src="./assets/mysql.png" />
 <img align="left" alt="MongoDB" width="48px" src="./assets/mongodb.png" />
