@@ -29,7 +29,7 @@ I'm not working on any bigger projects at the moment.
 
 <img align="left" alt="MySQL" width="48px" src="./assets/mysql.png" />
 <img align="left" alt="MongoDB" width="48px" src="./assets/mongodb.png" />
-<img align="left" alt="Git" width="48px" src="./assets/git.png" />
+<img align="left" alt="Git" width="48px" src="./assets/git (2).png" />
 <img align="left" alt="GitHub" width="48px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JetBrains" width="48px" src="./assets/jetbrains.jpg" />
