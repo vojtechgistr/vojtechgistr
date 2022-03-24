@@ -25,7 +25,7 @@ I'm not working on any bigger projects at the moment.
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="32px" src="./assets/sql.png" />
 
-<br /><br /><br />
+<br /><br />
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="32px" src="./assets/mysql.png" />
@@ -36,7 +36,7 @@ I'm not working on any bigger projects at the moment.
 <img align="left" alt="JetBrains" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" />
 <img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
 
-<br /><br /><br />
+<br /><br />
 
 <img align="left" alt="Linux" width="32px" src="./assets/linux.png" />
 <img align="left" alt="Windows" width="32px" src="./assets/windows.png" />
@@ -44,7 +44,7 @@ I'm not working on any bigger projects at the moment.
 <img align="left" alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
 <img align="left" alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
 
-<br /><br /><br />
+<br /><br />
 
 ---
 
