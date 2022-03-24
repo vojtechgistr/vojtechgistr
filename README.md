@@ -14,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vojtag&theme=github_dark&repo=battleship-minigame)](https://github.com/VojtaG/BattleShip-minigame)
 
-<br><br>
+<br>
 
 I'm not working on any bigger projects at the moment tho.
 
