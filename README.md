@@ -12,8 +12,6 @@
 
 I'm not working on any bigger projects at the moment.
 
-<br />
-
 ---
 
 ### Languages and Tools:
