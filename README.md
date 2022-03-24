@@ -56,9 +56,7 @@ I'm not working on any bigger projects at the moment.
 
 </p>
   
-<div align="center">  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vojtag&theme=radical&layout=compact)](https://github.com/VojtaG)
-
-</p>
+<div align="center">[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vojtag&theme=radical&layout=compact)](https://github.com/VojtaG)</div>
   
 
 <br />
