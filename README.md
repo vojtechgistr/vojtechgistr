@@ -33,22 +33,22 @@ I'm not working on any bigger projects at the moment tho.
 
 <br /><br />
 
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="32px" src="./assets/mysql.png" />
-<img align="left" alt="MongoDB" width="32px" src="./assets/mongodb (2).png" />
-<img align="left" alt="Git" width="32px" src="./assets/git (2).png" />
-<img align="left" alt="GitHub" width="32px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
-<img align="left" alt="Visual Studio / Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JetBrains" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" />
-<img align="left" alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
+<img alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="MySQL" width="32px" src="./assets/mysql.png" />
+<img alt="MongoDB" width="32px" src="./assets/mongodb (2).png" />
+<img alt="Git" width="32px" src="./assets/git (2).png" />
+<img alt="GitHub" width="32px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
+<img alt="Visual Studio / Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="JetBrains" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" />
+<img alt="Electron" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
 
 <br /><br />
 
-<img align="left" alt="Linux" width="32px" src="./assets/linux.png" />
-<img align="left" alt="Windows" width="32px" src="./assets/windows.png" />
-<img align="left" alt="Photoshop" width="32px" src="./assets/photoshop.png" />
-<img align="left" alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
-<img align="left" alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
+<img alt="Linux" width="32px" src="./assets/linux.png" />
+<img alt="Windows" width="32px" src="./assets/windows.png" />
+<img alt="Photoshop" width="32px" src="./assets/photoshop.png" />
+<img alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
+<img alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
 
 <br /><br />
 
