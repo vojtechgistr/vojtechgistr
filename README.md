@@ -50,7 +50,7 @@ I'm not working on any bigger projects at the moment tho.
 <img align="left" alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
 <img align="left" alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
 
-<br /><br />
+<br /><br /><br />
 
 ---
 
