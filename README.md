@@ -12,7 +12,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vojtag&theme=github_dark&repo=battleship-minigame)](https://github.com/VojtaG/BattleShip-minigame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaRealAdalbertBro&theme=github_dark&repo=battleship-minigame)](https://github.com/DaRealAdalbertBro/BattleShip-minigame)
 
 <br>
 
@@ -57,7 +57,7 @@ I'm not working on any bigger projects at the moment tho.
 <br />
   
 
-![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=VojtaG&show_icons=true&theme=radical)
+![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=DaRealAdalbertBro&show_icons=true&theme=radical)
   
-[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=vojtag&theme=radical&layout=compact)](https://github.com/VojtaG)
+[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealAdalbertBro&theme=radical&layout=compact)](https://github.com/DaRealAdalbertBro)
  
