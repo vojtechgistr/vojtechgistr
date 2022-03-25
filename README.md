@@ -57,7 +57,7 @@ I'm not working on any bigger projects at the moment tho.
 <br />
   
 
-![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=DaRealAdalbertBro&show_icons=true&theme=radical)
+[![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=DaRealAdalbertBro&show_icons=true&theme=radical)](https://github.com/DaRealAdalbertBro?tab=repositories)
   
-[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealAdalbertBro&theme=radical&layout=compact)](https://github.com/DaRealAdalbertBro)
+[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealAdalbertBro&theme=radical&layout=compact)](https://github.com/DaRealAdalbertBro?tab=repositories)
  
