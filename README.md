@@ -12,11 +12,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaRealAdalbertBro&theme=github_dark&repo=battleship-minigame)](https://github.com/DaRealAdalbertBro/BattleShip-minigame)
-
-<br>
-
-I'm not working on any bigger projects at the moment tho.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaRealAdalbertBro&theme=github_dark&repo=battleship-minigame)](https://github.com/DaRealAdalbertBro/Lets-Study-Panel)
 
 ---
 
