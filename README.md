@@ -3,7 +3,7 @@
 ### and I'm a developer & musician!
 
 - 🔎 I’m currently learning C++ & Arduino
-- ⚡ My hobbies: I like drawing, playing musical instruments, playing sports and programming
+- ⚡ My hobbies: I like drawing, playing musical instruments, playing sports and programing
 - 🥅 2022 Goals: That's a good question.. (🟠)
 
 ---
