@@ -10,12 +10,9 @@
 
 ### 👀 MY PROJECTS (WHICH I'M CURRENTLY WORKING ON)
 
-<br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaRealAdalbertBro&theme=github_dark&repo=Lets-Study-Panel)](https://github.com/DaRealAdalbertBro/Lets-Study-Panel)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaRealAdalbertBro&theme=github_dark&repo=BattleShip-minigame)](https://github.com/DaRealAdalbertBro/BattleShip-minigame)
-
 
 ---
 
@@ -49,12 +46,16 @@
 <img align="left" alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
 <img align="left" alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
 
-<br /><br /><br />
+<br /><br />
 
 ---
 
-<br />
-  
+### Contact:
+
+- **Discord:** *DaRealAdalbertBro#9609*
+- **Email:** *vojtech.gistr@email.cz*
+
+---
 
 [![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=DaRealAdalbertBro&show_icons=true&theme=radical)](https://github.com/DaRealAdalbertBro?tab=repositories)
   
