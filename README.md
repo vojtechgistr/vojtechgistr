@@ -50,14 +50,13 @@
 
 ---
 
-### Contact:
-
-- **Discord:** *DaRealAdalbertBro#9609*
-- **Email:** *vojtech.gistr@email.cz*
-
----
-
 [![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=DaRealAdalbertBro&show_icons=true&theme=radical)](https://github.com/DaRealAdalbertBro?tab=repositories)
   
 [![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealAdalbertBro&theme=radical&layout=compact)](https://github.com/DaRealAdalbertBro?tab=repositories)
  
+---
+
+### Contact:
+
+- **Discord:** *DaRealAdalbertBro#9609*
+- **Email:** *vojtech.gistr@email.cz*
