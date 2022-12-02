@@ -56,5 +56,5 @@
 
 ### Contact:
 
-- **Discord:** *DaRealAdalbertBro#9609*
+- **Discord:** *AdalberToo#9609*
 - **Email:** *vojtech.gistr@email.cz*
