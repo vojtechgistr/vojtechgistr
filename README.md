@@ -2,9 +2,9 @@
 
 ### and I'm a developer & musician!
 
-- 🔎 I’m currently learning C++
+- 🔎 I’m currently learning React
 - ⚡ My hobbies: I like drawing, playing musical instruments, playing sports and programing
-- 🥅 2022 Goals: That's a good question.. (🟠)
+- 🥅 2023 Goals: Have a good time!
 
 ---
 
