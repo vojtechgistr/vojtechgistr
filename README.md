@@ -43,7 +43,7 @@
 <img align="left" alt="Photoshop" width="32px" src="./assets/photoshop.png" />
 <img align="left" alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
 <img align="left" alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
-
+<img align="left" alt="Cakewalk" width="32px" src="https://user-images.githubusercontent.com/56306485/210176259-90379143-0171-4894-b0a7-43e1f615a99a.png" />
 <br /><br />
 
 ---
