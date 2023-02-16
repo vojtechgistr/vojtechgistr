@@ -10,8 +10,6 @@
 
 ### 👀 MY PROJECTS (WHICH I'M CURRENTLY WORKING ON)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaRealAdalbertBro&theme=github_dark&repo=void-dashboard-system)]([https://github.com/DaRealAdalbertBro/Lets-Study-Panel](https://github.com/DaRealAdalbertBro/void-dashboard-system))
-
 ---
 
 ### Languages and Tools:
