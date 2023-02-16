@@ -10,6 +10,8 @@
 
 ### 👀 MY PROJECTS (WHICH I'M CURRENTLY WORKING ON)
 
+none
+
 ---
 
 ### Languages and Tools:
