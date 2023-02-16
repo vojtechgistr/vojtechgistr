@@ -10,7 +10,7 @@
 
 ### 👀 MY PROJECTS (WHICH I'M CURRENTLY WORKING ON)
 
-none
+no public projects here
 
 ---
 
