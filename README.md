@@ -56,6 +56,6 @@ no public projects here
 
 ### Contact:
 
-- **Discord:** *@adalbertoo*
+- **Discord:** <a href="https://discord.com/users/484448041609199620">*@adalbertoo*</a>
 - **Email:** *vojtech@gistr.dev*
-- **Website:** *gistr.dev*
+- **Website:** <a href="https://gistr.dev/">*gistr.dev*</a>
