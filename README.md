@@ -56,5 +56,6 @@ no public projects here
 
 ### Contact:
 
-- **Discord:** *AdalberToo#9609*
-- **Email:** *vojtech.gistr@email.cz*
+- **Discord:** *@adalbertoo*
+- **Email:** *vojtech@gistr.dev*
+- **Website:** *gistr.dev*
