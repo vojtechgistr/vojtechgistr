@@ -2,7 +2,7 @@
 
 ### and I'm a developer & musician!
 
-- 🔎 I’m currently learning React
+- 🔎 I’m currently learning React & related technologies to .NET framework
 - ⚡ My hobbies: I like drawing, playing musical instruments, sports and programing
 - 🥅 2023 Goals: Have a good time!
 
