@@ -1,18 +1,9 @@
-## Hey, my name is Adalbert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, my nickname is Adalbert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### and I'm a developer & musician!
-
-- 🔎 I’m currently learning React & related technologies to .NET framework
-- ⚡ My hobbies: I like drawing, playing musical instruments, sports and programing
-- 🥅 2023 Goals: Have a good time!
-
----
-
-### 👀 MY PROJECTS (WHICH I'M CURRENTLY WORKING ON)
-
-no public projects here
-
----
+### Where to find me:
+- Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>!
+- **Discord:** <a href="https://discord.com/users/484448041609199620">*@adalbertoo*</a>
+- **Email:** *vojtech@gistr.dev*
 
 ### Languages and Tools:
 
@@ -53,9 +44,3 @@ no public projects here
 [![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealAdalbertBro&theme=radical&layout=compact)](https://github.com/DaRealAdalbertBro?tab=repositories)
  
 ---
-
-### Contact:
-
-- **Discord:** <a href="https://discord.com/users/484448041609199620">*@adalbertoo*</a>
-- **Email:** *vojtech@gistr.dev*
-- **Website:** <a href="https://gistr.dev/">*gistr.dev*</a>
