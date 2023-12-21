@@ -1,5 +1,15 @@
 ## Hey, my nickname is Adalbert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm a Student & Software Engineer working in Czech Republic and I love learning!
+
+I'm interested in:
+- Software architecture
+- Building algorithms
+- Developing (full-stack) websites
+- Travelling
+- Art & Music
+- Languages: English and Japanese
+
 ### Where to find me:
 - Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>!
 - **Discord:** <a href="https://discord.com/users/484448041609199620">*@adalbertoo*</a>
