@@ -2,13 +2,17 @@
 
 I'm a Student & Software Engineer working in Czech Republic and I love learning!
 
-I'm interested in:
+#### I'm interested in:
 - Software architecture
-- Building algorithms
+- Creating algorithms
 - Developing (full-stack) websites
 - Travelling
+- Psychology
+- Weird Questions
 - Art & Music
-- Languages: English and Japanese
+- Languages: English, Japanese
+
+_And many more things_
 
 ### Where to find me:
 - Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>!
@@ -21,7 +25,7 @@ I'm interested in:
 <img align="left" alt="PHP" width="32px" src="./assets/php.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="C#" width="32px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" />
+<img align="left" alt="C#" width="32px" src="https://github.com/vojtechgistr/vojtechgistr/assets/56306485/6a927a9a-ee85-493c-8763-2bb39962e629" />
 <img align="left" alt="Python" width="32px" src="./assets/python.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="32px" src="./assets/sql.png" />
