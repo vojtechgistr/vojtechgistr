@@ -29,6 +29,7 @@ _And many more things_
 <img align="left" alt="Python" width="32px" src="./assets/python.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="32px" src="./assets/sql.png" />
+<img align="left" alt="PostgreSQL" width="32px" src="https://github.com/vojtechgistr/vojtechgistr/assets/56306485/b4b609e7-552b-493e-ad52-7ece3ef2604c" />
 
 <br /><br />
 
@@ -47,8 +48,10 @@ _And many more things_
 <img align="left" alt="Windows" width="32px" src="./assets/windows.png" />
 <img align="left" alt="Photoshop" width="32px" src="./assets/photoshop.png" />
 <img align="left" alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
+<img align="left" alt="Reaper" width="32px" src="https://github.com/vojtechgistr/vojtechgistr/assets/56306485/9599bdf4-10fe-418b-8ff7-9ac4a366fee6" />
 <img align="left" alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
 <img align="left" alt="Cakewalk" width="32px" src="https://user-images.githubusercontent.com/56306485/210176259-90379143-0171-4894-b0a7-43e1f615a99a.png" />
+
 <br /><br />
 
 ---
