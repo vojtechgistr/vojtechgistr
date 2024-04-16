@@ -56,8 +56,8 @@ _And many more things_
 
 ---
 
-[![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=DaRealAdalbertBro&show_icons=true&theme=radical)](https://github.com/DaRealAdalbertBro?tab=repositories)
+[![Vojtěch Gistr's github stats](https://github-readme-stats.vercel.app/api?username=vojtechgistr&show_icons=true&theme=radical)](https://github.com/vojtechgistr?tab=repositories)
   
-[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealAdalbertBro&theme=radical&layout=compact)](https://github.com/DaRealAdalbertBro?tab=repositories)
+[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=vojtechgistr&theme=radical&layout=compact)](https://github.com/vojtechgistr?tab=repositories)
  
 ---
