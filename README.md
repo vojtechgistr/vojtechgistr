@@ -17,7 +17,7 @@ _And much more_
 ### Where to find me:
 - Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>! (provider temporarily down)
 - **Discord:** <a href="https://discord.com/users/484448041609199620">*@adalbertoo*</a>
-- **Email:** *vojtech@gistr.dev*
+- **Business email:** *vojtech.gistr(at)gmail.com*
 
 ### Languages and Tools:
 
