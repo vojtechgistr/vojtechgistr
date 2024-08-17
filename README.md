@@ -15,7 +15,7 @@ I'm a Student & Software Engineer working in Czech Republic and I love learning!
 _And much more_
 
 ### Where to find me:
-- Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>!
+- Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>! (provider temporarily down)
 - **Discord:** <a href="https://discord.com/users/484448041609199620">*@adalbertoo*</a>
 - **Email:** *vojtech@gistr.dev*
 
