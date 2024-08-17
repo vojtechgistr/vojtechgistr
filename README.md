@@ -10,9 +10,9 @@ I'm a Student & Software Engineer working in Czech Republic and I love learning!
 - Psychology
 - Weird Questions
 - Art & Music
-- Languages: English, Japanese
+- Languages: English, Japanese, Polish, Czech (native)
 
-_And many more things_
+_And much more_
 
 ### Where to find me:
 - Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>!
