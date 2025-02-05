@@ -10,7 +10,8 @@ I'm a Student & Software Engineer working in Czech Republic and I love learning!
 - Psychology
 - Weird Questions
 - Art & Music
-- Languages: English, Japanese, Polish, Czech (native)
+- Woodworking
+- Languages: English (between B2/C1), Polish, Czech (native), Japanese (N5)
 
 _And much more_
 
