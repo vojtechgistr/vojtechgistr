@@ -5,13 +5,14 @@ I'm a Student & Software Engineer working from Czech Republic and I love learnin
 #### I'm interested in:
 - Software architecture
 - Creating algorithms
-- Developing (full-stack) websites
+- Full-stack websites
+- Desktop applications
 - Travelling
 - Psychology
 - Weird Questions
 - Art & Music
 - Woodworking
-- Languages: English (between B2/C1), Polish, Czech (native), Japanese (N5)
+- Languages: English, Polish, Czech (native), Japanese (N5)
 
 _And much more_
 
