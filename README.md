@@ -1,6 +1,6 @@
-## Hey, my nickname is Adalbert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, my nickname is Bert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Student & Software Engineer working in Czech Republic and I love learning!
+I'm a Student & Software Engineer working from Czech Republic and I love learning!
 
 #### I'm interested in:
 - Software architecture
