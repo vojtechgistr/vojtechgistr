@@ -1,17 +1,12 @@
-## Hey, my nickname is Bert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, I'm Bert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Student & Software Engineer working from Czech Republic and I love learning!
+I'm a Software Developer working remotely from Poland and I'm addicted to learning.
 
 #### I'm interested in:
 - Software architecture
-- Creating algorithms
-- Full-stack websites
-- Desktop applications
-- Travelling
-- Psychology
-- Weird Questions
-- Art & Music
-- Woodworking
+- Full-stack website development
+- Desktop applications (Mostly Qt)
+- Travelling, Psychology, Weird Questions, Art & Music
 - Languages: English, Polish, Czech (native), Japanese (N5)
 
 _And much more_
@@ -19,10 +14,11 @@ _And much more_
 ### Where to find me:
 - Visit my website <a href="https://gistr.dev/">*gistr.dev*</a>!
 - **Discord:** <a href="https://discord.com/users/484448041609199620">*@adalbertoo*</a>
-- **Business email:** *vojtech(at)gistr.dev*
+- **Business email:** [bert(at)masterbranchsoftware.com](mailto:bert@masterbranchsoftware.com)
 
 ### Languages and Tools:
 
+<img align="left" alt="Ruby on Rails" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="PHP" width="32px" src="./assets/php.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -48,10 +44,10 @@ _And much more_
 
 <img align="left" alt="Linux" width="32px" src="./assets/linux.png" />
 <img align="left" alt="Windows" width="32px" src="./assets/windows.png" />
+<img align="left" alt="macOS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 <img align="left" alt="Photoshop" width="32px" src="./assets/photoshop.png" />
 <img align="left" alt="Cakewalk" width="32px" src="./assets/cakewalk.png" />
 <img align="left" alt="Reaper" width="32px" src="https://github.com/vojtechgistr/vojtechgistr/assets/56306485/9599bdf4-10fe-418b-8ff7-9ac4a366fee6" />
-<img align="left" alt="DaVinci Resolve" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/240px-DaVinci_Resolve_17_logo.svg.png" />
 <img align="left" alt="Cakewalk" width="32px" src="https://user-images.githubusercontent.com/56306485/210176259-90379143-0171-4894-b0a7-43e1f615a99a.png" />
 
 <br /><br />
